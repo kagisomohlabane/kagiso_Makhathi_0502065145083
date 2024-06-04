@@ -52,3 +52,109 @@ footer {
   padding: 20px;
   text-align: center;
 }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+header {
+  background-color: #3e2723;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+nav {
+  margin: 10px 0;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1, h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+section {
+  margin-bottom: 30px;
+}
+body { 
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+nav {
+  margin: 10px 0;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+.intro, .menu {
+  margin-bottom: 30px;
+}
+.menu-item {
+  margin-bottom: 15px;
+}
+.menu-item h3 {
+  margin: 0 0 5px 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+h1 {
+  text-align: center;
+  color: #6b4f4f;
+}
+h2 {
+  color: #8b5a2b;
+}
+.menu-section {
+  margin-bottom: 30px;
+}
+.menu-item {
+  margin-bottom: 10px;
+}
+.price {
+  float: right;
+  color: #4a4a4a;
+}
+.description {
+  margin-top: 5px;
+  color: #6b6b6b;
+}
